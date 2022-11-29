@@ -1,0 +1,1 @@
+No Content: https://www.multiwallet-connect.io/Web3Modal/web3modal.js
